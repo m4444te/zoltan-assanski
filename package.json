@@ -1,0 +1,16 @@
+{
+  "name": "zoltan-assanski",
+  "version": "1.0.0",
+  "description": "<h1>📷 Zoltan Assanski's Pictures 📷</h1>",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
